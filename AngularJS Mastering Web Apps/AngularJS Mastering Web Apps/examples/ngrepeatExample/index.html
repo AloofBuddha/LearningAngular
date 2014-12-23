@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+    <script src="app.js"></script>
+    <script src="controller.js"></script>
+    <title>Crash Course</title>
+</head>
+<body ng-app="app">
+<div ng-controller="WorldCtrl">
+    <ul>
+        <li ng-repeat="country in countries">
+            {{country.name}} has a population of {{country.population}}
+        </li>
+    </ul>
+    World's population: {{population}} million
+</div>
+</body>
+</html>

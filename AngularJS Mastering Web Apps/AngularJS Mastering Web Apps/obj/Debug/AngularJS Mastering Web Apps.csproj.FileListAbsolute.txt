@@ -1,0 +1,6 @@
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\bin\AngularJS Mastering Web Apps.dll.config
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\bin\AngularJS Mastering Web Apps.dll
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\bin\AngularJS Mastering Web Apps.pdb
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\obj\Debug\AngularJS Mastering Web Apps.csprojResolveAssemblyReference.cache
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\obj\Debug\AngularJS Mastering Web Apps.dll
+c:\users\becohen.redmond\documents\visual studio 2013\Projects\AngularJS Mastering Web Apps\AngularJS Mastering Web Apps\obj\Debug\AngularJS Mastering Web Apps.pdb
